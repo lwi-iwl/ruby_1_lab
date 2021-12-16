@@ -1,0 +1,7 @@
+8bm Baranovichi Minsk 08:00 13:00 1.40
+7bs Baranovichi Stolbtsy 07:00 09:00 1.30
+8bs Baranovichi Stolbtsy 08:00 10:00 1.30
+9sm Stolbtsy Minsk 09:00 11:00
+10sm Stolbtsy Minsk 10:00 12:00
+11sm Stolbtsy Minsk 11:00 13:00
+12sm Stolbtsy Minsk 12:00 13:00
